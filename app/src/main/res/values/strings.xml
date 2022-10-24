@@ -11,4 +11,8 @@
     <string name="nombre">Escribe el nombre de los jugadores</string>
     <string name="jugar">Jugar</string>
     <string name="salir">Salir</string>
+
+    <string name="perdido">¡Oh no! Has muerto</string>
+    <string name="ganado">Enhorabuena, sigues con vida</string>
+    <string name="instrucciones">Pulsa aquí para jugar otra vez</string>
 </resources>
