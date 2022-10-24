@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RetoPMDRuleta</string>
+
+    <string name="jugadores">Cuantos Jugadores sois?</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="nombre">Escribe el nombre de los jugadores</string>
+    <string name="jugar">Jugar</string>
+    <string name="salir">Salir</string>
+</resources>
