@@ -13,9 +13,6 @@
             android:name=".PantallaConfiguracion"
             android:exported="true" />
         <activity
-            android:name=".pantallaconfiguracion.PantallaConfiguracion"
-            android:exported="true" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
