@@ -11,4 +11,5 @@
     <string name="jugar">Jugar</string>
     <string name="salir">Salir</string>
     <string name="propiedades">Propiedades</string>
+    <string name="checkbox">Solo un ganador? (por defecto 1 perdedor)</string>
 </resources>

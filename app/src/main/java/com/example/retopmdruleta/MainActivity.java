@@ -39,10 +39,10 @@ public class MainActivity extends AppCompatActivity {
         switch (requestCode) {
             case (secondary_activity): {
                 if (resultCode == PantallaConfiguracion.RESULT_OK) {
-                    String returnValue = data.getStringExtra("numeroJugadores");
                     jugadores = data.getStringArrayListExtra("jugadores");
-                    textView.setText(returnValue);
-                    textView.setText(textView.getText() + " " + jugadores.get(0));
+                    Boolean check = data.getBooleanExtra("isChecked", false);
+                    textView.setText(jugadores.toString());
+                    textView.setText(textView.getText()+" "+check);
                 }
                 break;
             }
